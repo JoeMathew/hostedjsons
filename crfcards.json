@@ -1,0 +1,52 @@
+[
+    {
+        "eventId": "EKMCON2020",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Gospel Convention",
+        "location": "Marine Drive, Eranakulam",
+        "address": "Marine Drive Ground, Eranakulam",
+        "cardBgColour": "Teal",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "TCRCON2020",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Gospel Convention",
+        "location": "Central Ground",
+        "address": "Central Ground, Trichur",
+        "cardBgColour": "FlatOrange",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "TVPGMPV",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Amruthadhaara TV Programme",
+        "location": "5:30am, 1:30pm, 8:30pm",
+        "address": "PowerVision TV",
+        "cardBgColour": "FlatRed",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "BK145PP",
+        "startTime": "03/07/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Puna Prathishta",
+        "location": "A New Book From Prof.M.Y. Yohannan",
+        "address": "145",
+        "cardBgColour": "FlatGreen",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "2NDSATSEP2020",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "2nd Saturday Meeting",
+        "location": "Prayer Hall",
+        "address": "Valethupady, Kadayiruppu, Kerala",
+        "cardBgColour": "Blue",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    }
+]
