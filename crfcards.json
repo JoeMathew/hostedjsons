@@ -1,7 +1,7 @@
 [
     {
         "eventId": "EKMCON2020",
-        "imageUrl": "http/.../image",
+        "imageUrl": "https://ibb.co/KxZ7dKC",
         "startTime": "09/06/2020 00:00:00",
         "endTime": "30/11/2020 00:00:00",
         "title": "Gospel Convention",
@@ -12,7 +12,7 @@
     },
     {
         "eventId": "TCRCON2020",
-        "imageUrl": "http/.../image",
+        "imageUrl": "https://ibb.co/pyN06BD",
         "startTime": "09/06/2020 00:00:00",
         "endTime": "30/11/2020 00:00:00",
         "title": "Gospel Convention",
@@ -23,7 +23,7 @@
     },
     {
         "eventId": "TVPGMPV",
-        "imageUrl": "http/.../image",
+        "imageUrl": "https://ibb.co/4s9NQLF",
         "startTime": "09/06/2020 00:00:00",
         "endTime": "30/11/2020 00:00:00",
         "title": "Amruthadhaara TV Programme",
@@ -34,7 +34,7 @@
     },
     {
         "eventId": "BK145PP",
-        "imageUrl": "http/.../image",
+        "imageUrl": "https://ibb.co/022HrH9",
         "startTime": "03/07/2020 00:00:00",
         "endTime": "30/11/2020 00:00:00",
         "title": "Puna Prathishta",
@@ -45,7 +45,7 @@
     },
     {
         "eventId": "2NDSATSEP2020",
-        "imageUrl": "http/.../image",
+        "imageUrl": "https://ibb.co/D7Mh1VQ",
         "startTime": "09/06/2020 00:00:00",
         "endTime": "30/11/2020 00:00:00",
         "title": "2nd Saturday Meeting",
@@ -54,5 +54,12 @@
         "cardBgColour": "Blue",
         "backrgoundImageUrl": "backrgoundImageUrl"
     }
-    
 ]
+
+
+
+
+
+
+//Images hosted at https://imgbb.com
+//https://ibb.co/y8m8m3b
