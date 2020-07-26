@@ -1,0 +1,57 @@
+[
+    {
+        "eventId": "EKMCON2020",
+        "imageUrl": "https://i.postimg.cc/JhsdNXxn/3eabe037-c234-4b88-baf3-ea0116b947ab.jpg",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Gospel Convention",
+        "subTitle": "Marine Drive, Eranakulam",
+        "cardDetail": "Marine Drive Ground, Eranakulam",
+        "cardBgColour": "Teal",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "TCRCON2020",
+        "imageUrl": "https://i.postimg.cc/Vv8GPV8r/4e16eee5-fa92-48fc-b46c-23a8b4c8cbae.jpg",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Gospel Convention",
+        "subTitle": "Central Ground",
+        "cardDetail": "Central Ground, Trichur",
+        "cardBgColour": "FlatOrange",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "TVPGMPV",
+        "imageUrl": "https://i.postimg.cc/BbBhSBSh/5b840994-45b9-44c5-88c1-b81698babb6f.jpg",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Amruthadhaara TV Programme",
+        "subTitle": "5:30am, 1:30pm, 8:30pm",
+        "cardDetail": "PowerVision TV",
+        "cardBgColour": "FlatRed",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "BK145PP",
+        "imageUrl": "https://i.postimg.cc/c1RkB0RQ/8bd013b0-95c4-4ad4-8d0e-34a5c5b23735.jpg",
+        "startTime": "03/07/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "Puna Prathishta",
+        "subTitle": "A New Book From Prof.M.Y. Yohannan",
+        "cardDetail": "145",
+        "cardBgColour": "FlatGreen",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    },
+    {
+        "eventId": "2NDSATSEP2020",
+        "imageUrl": "https://i.postimg.cc/Qxj46wmv/PV-Purple-2020.jpg",
+        "startTime": "09/06/2020 00:00:00",
+        "endTime": "30/11/2020 00:00:00",
+        "title": "2nd Saturday Meeting",
+        "subTitle": "Prayer Hall",
+        "cardDetail": "Valethupady, Kadayiruppu, Kerala",
+        "cardBgColour": "Blue",
+        "backrgoundImageUrl": "backrgoundImageUrl"
+    }
+]
